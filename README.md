@@ -26,7 +26,7 @@
 
 [//]: # (Easy)
 
-[1]: Easy/1.py?ss=4
+[1]: Easy/1.py?ss=2
 [Python: Division]: https://www.hackerrank.com/challenges/python-division/problem
 
 [2]: Easy/2.py?ts=4
